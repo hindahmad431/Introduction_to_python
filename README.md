@@ -12,6 +12,9 @@ Part2 ---> Expression and Variables
 
 https://github.com/hindahmad431/Introduction_to_python/blob/master/IntroductionToPython_Part2_Expression_Operations.ipynb
 
+Part3 ---> Strings
+
+https://github.com/hindahmad431/Introduction_to_python/blob/master/IntroductionToPython_Part3_Strings.ipynb
 
 We will add more part soon!
 
