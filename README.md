@@ -20,6 +20,11 @@ Part4 ---> Lists and Tuples
 
 https://github.com/hindahmad431/Introduction_to_python/blob/master/IntroductionToPython_Part4_List_and_Tuples.ipynb
 
+Part5 ---> Dictionaries and Sets
+
+https://github.com/hindahmad431/Introduction_to_python/blob/master/IntroductionToPython_Part5_Dictionaries_and_Sets.ipynb
+
+
 We will add more part soon!
 
 
