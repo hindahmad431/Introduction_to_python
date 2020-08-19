@@ -16,6 +16,10 @@ Part3 ---> Strings
 
 https://github.com/hindahmad431/Introduction_to_python/blob/master/IntroductionToPython_Part3_Strings.ipynb
 
+Part4 ---> Lists and Tuples
+
+https://github.com/hindahmad431/Introduction_to_python/blob/master/IntroductionToPython_Part4_List_and_Tuples.ipynb
+
 We will add more part soon!
 
 
